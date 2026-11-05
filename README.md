@@ -53,10 +53,11 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs7qyUIaCRaCevTvMj4ieISpD1KNazMg5RByQglBPQg&s=10" width="400" height="500">
 
-| Description | Frieren is the immortal elven mage and titular protagonist of the fantasy series Frieren: Beyond Journey's End. Having lived for well over a millennium, she possesses a calm, emotionally detached demeanor that mirrors her name, which is derived from the German word meaning "to freeze." Physically characterized by her long white-silver twin tails, green eyes, and white mage robes, she spent a foundational decade of her long life traveling alongside the hero Himmel, the warrior Eisen, and the priest Heiter to defeat the Demon King. Following Himmel's eventual death from old age, Frieren is struck by profound regret for not attempting to truly understand him or the fleeting nature of human lifespans. This heartbreak prompts her to embark on a new journey to Aureole, the mythical resting place of souls in the far north, alongside her young apprentice Fern and the warrior Stark, as she slowly learns the true value of human connections, emotions, and time. |
+| Description | Frieren is the immortal elven mage and titular protagonist of the fantasy series Frieren: Beyond Journey's End. Having lived for well over a millennium, she possesses a calm, emotionally detached demeanor that mirrors her name, which is derived from the German word meaning "to freeze." Physically characterized by her long white-silver twin tails, green eyes, and white mage robes, she spent a foundational decade of her long life traveling alongside the hero Himmel, the warrior Eisen, and the priest Heiter to defeat the Demon King. Following Himmel's eventual death from old age, Frieren is struck by profound regret for not attempting to truly understand him or the fleeting nature of human lifespans. This heartbreak prompts her to embark on a new journey to Aureole, the mythical resting place of souls in the far north, alongside her young apprentice Fern and the warrior Stark, as she slowly learns the true value of human connections, emotions, and time.
 | ----------- | ----------- |
 | Season | 2 |
 | Main Character | Frieren |
+
 ---
 
 **Frieren Seasons**
